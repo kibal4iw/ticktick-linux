@@ -5,4 +5,4 @@ The TickTick client for linux
 Just put the directory in /opt and click on ticktick-app-for-linux executable file for lunch it
 
 ## Add .desktop (optional)
-Create .desktop for create an alias and lauch ticktick
+Create .desktop for create an alias and launch Ticktick
